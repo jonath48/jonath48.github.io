@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IMMERSE Log
+title: Jonathan Thompson's IMMERSE Log
 ---
 
 ### Week 1: April 26, 2021
