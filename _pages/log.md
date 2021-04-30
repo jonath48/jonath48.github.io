@@ -13,11 +13,11 @@ title: Jonathan Thompson's IMMERSE Log
 
 ### Week 2: May 3, 2021
 
-* **Monday**: 
-* **Tuesday**: 
-* **Wednesday**: 
-* **Thursday**: 
-* **Friday**: 
+* **Monday**: Decided to sleep in.
+* **Tuesday**: Trip to Disney World.
+* **Wednesday**: Trip to Disney World Day 2.
+* **Thursday**: Slept in to recover from trip.
+* **Friday**:  Skipped working because its Friday.
 
 ### Week 3: May 10, 2021
 
