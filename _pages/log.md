@@ -14,7 +14,7 @@ title: Jonathan Thompson's IMMERSE Log
 ### Week 2: May 3, 2021
 
 * **Monday**: Worked on making voting shorts in one site and voting shorts in two sites on the same tile.
-* **Tuesday**: 
+* **Tuesday**: Made a voting short with four signals and checked all possible outcomes.
 * **Wednesday**: 
 * **Thursday**: 
 * **Friday**: 
