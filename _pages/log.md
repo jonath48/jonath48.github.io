@@ -15,7 +15,7 @@ title: Jonathan Thompson's IMMERSE Log
 
 * **Monday**: Worked on making voting shorts in one site and voting shorts in two sites on the same tile.
 * **Tuesday**: Made a voting short with four signals and checked all possible outcomes.
-* **Wednesday**: 
+* **Wednesday**: Worked on connecting a flip flop to the clock.
 * **Thursday**: 
 * **Friday**: 
 
