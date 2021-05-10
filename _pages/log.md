@@ -17,7 +17,7 @@ title: Jonathan Thompson's IMMERSE Log
 * **Tuesday**: Made a voting short with four signals and checked all possible outcomes.
 * **Wednesday**: Worked on connecting a flip flop to the clock.
 * **Thursday**: Figured out how to connect the clock to a flip flop. Started working on connecting switches to the inputs of a voting short.
-* **Friday**: 
+* **Friday**: Worked on connecting switches to the inputs of voting shorts and creating functions that will work with shorts containing 2-6 signals.
 
 ### Week 3: May 10, 2021
 
