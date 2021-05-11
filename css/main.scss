@@ -90,9 +90,14 @@ $sidebar-hover-color: $secondary-color1;
      -o-font-feature-settings: "kern" 1;
      font-feature-settings: "kern" 1;
      font-kerning: normal;
-     background-image: url("wood.jpg"), url("IMG_0116.jpg");
-     background-repeat: repeat, repeat;
-     background-position: center, top;
+     background-image: url("IMG_0116.jpg"), url("wood.jpg");
+     background-repeat: no-repeat, repeat;
+    //  background-position: center, center;
+    //  background-size: 5 4, 100% 100%;
+     background-blend-mode: color-burn;
+     background-position-x: left 410px, center;
+     background-position-y: top 0px, center;
+     background-size: 80px 100px, 100% 100%;
  }
  
  /**
@@ -294,7 +299,7 @@ h1 {
 
 h3 {
     text-transform: uppercase;
-    color: gray;
+    color: blue;
     font-size: 1.3rem;
     margin-top: 50px;
 }
