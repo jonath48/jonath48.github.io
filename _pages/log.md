@@ -22,7 +22,7 @@ title: Jonathan Thompson's IMMERSE Log
 ### Week 3: May 10, 2021
 
 * **Monday**: Worked on broader impact group project of helping to make a new lab for ECEn 301. Worked on getting the clock to connect to two sites in the same tile. Went to bootcamp class on python.
-* **Tuesday**: 
+* **Tuesday**: Figured out how to connect the clock to the two sites within the same tile. Started reading up on readback. Made some adjustments to my website.
 * **Wednesday**: 
 * **Thursday**: 
 * **Friday**: 
