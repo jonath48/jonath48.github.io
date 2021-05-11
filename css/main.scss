@@ -37,17 +37,17 @@ $on-lg: 1199.98px;
 }
 
 
-// $sidebar_hover_color: #0062B8;
-$grey-color: fuchsia;//#424242;
+$sidebar_hover_color: #0062B8;
+$grey-color: #424242;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark: darken($grey-color, 25%);
 
-$text-color: fuchsia;//#111;
-$brand-color: fuchsia;//#0a69a8;
+$text-color: #111;
+$brand-color: #0a69a8;
 $secondary-color1:#d882a1;
 $secondary-color2:#f26448;
 $secondary-color3:#f18321;
-$background-color: rgb(145, 255, 0);//#fdfdfd;
+$background-color:#fdfdfd;
 $text_selection_color: rgba(0, 98, 184, .5);
 $selection-color: $text_selection_color;
 $sidebar-hover-color: $secondary-color1;
@@ -90,9 +90,9 @@ $sidebar-hover-color: $secondary-color1;
      -o-font-feature-settings: "kern" 1;
      font-feature-settings: "kern" 1;
      font-kerning: normal;
-     background-image: url("IMG_0116.jpg");
-     background-repeat: no-repeat;
-     background-position: center;
+     background-image: url("wood.jpg"), url("IMG_0116.jpg");
+     background-repeat: repeat, repeat;
+     background-position: center, top;
  }
  
  /**
@@ -120,7 +120,7 @@ $sidebar-hover-color: $secondary-color1;
  h3,
  h4,
  h5 {
-     color:fuchsia;// #424242;
+     color: #424242;
      font-family: $header-font-family;
      letter-spacing: normal;
  }
@@ -280,7 +280,7 @@ $sidebar-hover-color: $secondary-color1;
  }
  
  .title-bar {
-         a { text-decoration: underline overline dashed fuchsia; color:fuchsia;}
+         a { text-decoration: underline overline dashed white; color:blue;}
  }
 #page-content-wrapper {
     min-width: 100vw;
