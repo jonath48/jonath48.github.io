@@ -42,13 +42,13 @@ $grey-color: #424242;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark: darken($grey-color, 25%);
 
-$text-color: #111;
+$text-color:white;// #111;
 $brand-color: #0a69a8;
 $secondary-color1:#d882a1;
 $secondary-color2:#f26448;
 $secondary-color3:#f18321;
 $background-color:#fdfdfd;
-$text_selection_color: rgba(0, 98, 184, .5);
+$text_selection_color: white;//rgba(0, 98, 184, .5);
 $selection-color: $text_selection_color;
 $sidebar-hover-color: $secondary-color1;
 
@@ -80,25 +80,41 @@ $sidebar-hover-color: $secondary-color1;
  /**
    * Basic styling
    */
- body {
-     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-     color: $text-color;
-     background-color: $background-color;
-     -webkit-text-size-adjust: 100%;
-     -webkit-font-feature-settings: "kern" 1;
-     -moz-font-feature-settings: "kern" 1;
-     -o-font-feature-settings: "kern" 1;
-     font-feature-settings: "kern" 1;
-     font-kerning: normal;
-     background-image: url("IMG_0116.jpg"), url("wood.jpg");
-     background-repeat: no-repeat, repeat;
-    //  background-position: center, center;
-    //  background-size: 5 4, 100% 100%;
-     background-blend-mode: color-burn;
-     background-position-x: left 410px, center;
-     background-position-y: top 0px, center;
-     background-size: 80px 100px, 100% 100%;
+//  body {
+//      font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+//      color: $text-color;
+//      background-color: $background-color;
+//      -webkit-text-size-adjust: 100%;
+//      -webkit-font-feature-settings: "kern" 1;
+//      -moz-font-feature-settings: "kern" 1;
+//      -o-font-feature-settings: "kern" 1;
+//      font-feature-settings: "kern" 1;
+//      font-kerning: normal;
+//      background-image: url("wood.jpg");
+//      background-repeat: repeat;
+//      background-position-x:  center;
+//      background-position-y: center;
+//      background-size: 100% 100%;
+//  }
+
+ .blur {filter: blur(4px);}
+ .brightness {filter: brightness(250%);}
+ .contrast {filter: contrast(180%);}
+ .grayscale {filter: grayscale(100%);}
+ .huerotate {filter: hue-rotate(180deg);}
+ .invert {filter: invert(100%);}
+ .opacity {filter: opacity(50%);}
+ .saturate {filter: saturate(1.5);}
+ .sepia {filter: sepia(100%);}
+ .shadow {filter: drop-shadow(8px 8px 10px green);}
+
+ img {
+     //width: 100px;
+     margin-top: 0%;
+     position: relative;
  }
+
+ 
  
  /**
    * Set `margin-bottom` to maintain vertical rhythm
@@ -125,7 +141,7 @@ $sidebar-hover-color: $secondary-color1;
  h3,
  h4,
  h5 {
-     color: #424242;
+     color: white;//black;//#424242;
      font-family: $header-font-family;
      letter-spacing: normal;
  }
@@ -152,13 +168,17 @@ $sidebar-hover-color: $secondary-color1;
  /**
    * Lists
    */
- ul,
+ ul {
+     color: white;
+ }
  ol {
      margin-left: $spacing-unit;
  }
  
  li {
-     > ul,
+     > ul{
+         color: white;
+     }
      > ol {
          margin-bottom: 0;
      }
@@ -180,14 +200,14 @@ $sidebar-hover-color: $secondary-color1;
    * Links
    */
  a {
-     color: $brand-color;
+     color: white;//$brand-color;
      text-decoration: none;
  
      &:visited {
      }
  
      &:hover {
-         color: darken($brand-color, 15%);
+         color: darken($color:white, $amount: 15%);//darken($brand-color, 15%);
          text-decoration: underline;
      }
  }
@@ -196,7 +216,7 @@ $sidebar-hover-color: $secondary-color1;
    * Blockquotes
    */
  blockquote {
-     color: $grey-color;
+     color: white;//$grey-color;
      border-left: 4px solid $grey-color-light;
      padding-left: $spacing-unit / 2;
      font-size: 18px;
@@ -285,7 +305,7 @@ $sidebar-hover-color: $secondary-color1;
  }
  
  .title-bar {
-         a { text-decoration: underline overline dashed white; color:blue;}
+         a { color:white;}
  }
 #page-content-wrapper {
     min-width: 100vw;
@@ -299,7 +319,7 @@ h1 {
 
 h3 {
     text-transform: uppercase;
-    color: blue;
+    color: white;//black;//blue;
     font-size: 1.3rem;
     margin-top: 50px;
 }
@@ -307,6 +327,6 @@ h3 {
 .title-text {
     font-size: xxx-large;
     font-weight: 800;
-    color:black;
+    color:white;
     text-align: center;
 }
