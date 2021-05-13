@@ -23,7 +23,7 @@ title: Jonathan Thompson's IMMERSE Log
 
 * **Monday**: Worked on broader impact group project of helping to make a new lab for ECEn 301. Worked on getting the clock to connect to two sites in the same tile. Went to bootcamp class on python.
 * **Tuesday**: Figured out how to connect the clock to the two sites within the same tile. Started reading up on readback. Made some adjustments to my website.
-* **Wednesday**: 
+* **Wednesday**: Went to Immerse and bootcamp meetings. Practiced using python and learned how to setup and use venv and miniconda. Started trying to get readback to work with the voting shorts.
 * **Thursday**: 
 * **Friday**: 
 
