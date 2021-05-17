@@ -24,12 +24,12 @@ title: Jonathan Thompson's IMMERSE Log
 * **Monday**: Worked on broader impact group project of helping to make a new lab for ECEn 301. Worked on getting the clock to connect to two sites in the same tile. Went to bootcamp class on python.
 * **Tuesday**: Figured out how to connect the clock to the two sites within the same tile. Started reading up on readback. Made some adjustments to my website.
 * **Wednesday**: Went to Immerse and bootcamp meetings. Practiced using python and learned how to setup and use venv and miniconda. Started trying to get readback to work with the voting shorts.
-* **Thursday**: 
-* **Friday**: 
+* **Thursday**: Worked on getting readback to work properly. Went to FPGA aging meeting.
+* **Friday**: Worked on connecting readback to voting shorts. Went to bootcamp meeting about python packages.
 
 ### Week 4: May 17, 2021
 
-* **Monday**:
+* **Monday**: Got readback to work properly with voting shorts. Started modifying the existing readback parser file for our projects needs. Went to bootcamp meeting.
 * **Tuesday**: 
 * **Wednesday**: 
 * **Thursday**: 

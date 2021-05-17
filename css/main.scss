@@ -3,9 +3,27 @@
 ---
 @charset "utf-8";
 
+// @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+// div {
+//     font-family: 'Press Start 2P', cursive;
+//     }
+
+// @import url('https://fonts.googleapis.com/css2?family=Nosifer&display=swap');
+
+// div {
+//     font-family: 'Nosifer', cursive;
+// }
+
+@import url('https://fonts.googleapis.com/css2?family=Megrim&display=swap');
+
+div{
+    font-family: 'Megrim', cursive;
+}
+
 // Our variables
-$base-font-family: "Arial";
-$header-font-family: "Arial";
+$base-font-family: 'Megrim', cursive;
+$header-font-family: 'Megrim', cursive;
 $base-font-size: 16px;      
 $base-font-weight: 300;
 $small-font-size: $base-font-size * 0.875;
@@ -38,9 +56,9 @@ $on-lg: 1199.98px;
 
 
 $sidebar_hover_color: #0062B8;
-$grey-color: #424242;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark: darken($grey-color, 25%);
+$grey-color: white;//#424242;
+$grey-color-light: white;//lighten($grey-color, 40%);
+$grey-color-dark: white;//darken($grey-color, 25%);
 
 $text-color:white;// #111;
 $brand-color: #0a69a8;
@@ -80,7 +98,9 @@ $sidebar-hover-color: $secondary-color1;
  /**
    * Basic styling
    */
-//  body {
+ body {
+     font-size: 24px;
+     font-weight: 1000;
 //      font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
 //      color: $text-color;
 //      background-color: $background-color;
@@ -95,7 +115,7 @@ $sidebar-hover-color: $secondary-color1;
 //      background-position-x:  center;
 //      background-position-y: center;
 //      background-size: 100% 100%;
-//  }
+ }
 
  .blur {filter: blur(4px);}
  .brightness {filter: brightness(250%);}
@@ -320,13 +340,13 @@ h1 {
 h3 {
     text-transform: uppercase;
     color: white;//black;//blue;
-    font-size: 1.3rem;
+    font-size: 2.3rem;
     margin-top: 50px;
 }
 
 .title-text {
     font-size: xxx-large;
-    font-weight: 800;
+    font-weight: 1000;
     color:white;
     text-align: center;
 }
