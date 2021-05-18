@@ -30,7 +30,7 @@ title: Jonathan Thompson's IMMERSE Log
 ### Week 4: May 17, 2021
 
 * **Monday**: Got readback to work properly with voting shorts. Started modifying the existing readback parser file for our projects needs. Went to bootcamp meeting.
-* **Tuesday**: 
+* **Tuesday**: Worked on writing tcl file to open vivado and create readback file. Wrote Immerse Proposal paper. Applied information taught in bootcamp by working on CVS_Parser. 
 * **Wednesday**: 
 * **Thursday**: 
 * **Friday**: 
