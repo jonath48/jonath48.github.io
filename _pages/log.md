@@ -31,7 +31,7 @@ title: Jonathan Thompson's IMMERSE Log
 
 * **Monday**: Got readback to work properly with voting shorts. Started modifying the existing readback parser file for our projects needs. Went to bootcamp meeting.
 * **Tuesday**: Worked on writing tcl file to open vivado and create readback file. Wrote Immerse Proposal paper. Applied information taught in bootcamp by working on CVS_Parser. 
-* **Wednesday**: 
+* **Wednesday**: Went to Immerse and Bootcamp meetings. Worked on writing a script for voting shorts. Started making a checkpoint file with voting shorts across the entire board.
 * **Thursday**: 
 * **Friday**: 
 
