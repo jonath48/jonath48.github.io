@@ -33,9 +33,17 @@ title: Jonathan Thompson's IMMERSE Log
 * **Tuesday**: Worked on writing tcl file to open vivado and create readback file. Wrote Immerse Proposal paper. Applied information taught in bootcamp by working on CVS_Parser. 
 * **Wednesday**: Went to Immerse and Bootcamp meetings. Worked on writing a script for voting shorts. Started making a checkpoint file with voting shorts across the entire board.
 * **Thursday**: Went to FPGA aging meeting. Worked on creating a checkpoint with voting shorts on the entire board.
-* **Friday**: 
+* **Friday**: Worked on getting checkpoint of all voting shorts. Went to bootcamp meeting on docker. Worked on setting up computer for remote work.
 
 ### Week 5: May 24, 2021
+
+* **Monday**:
+* **Tuesday**: 
+* **Wednesday**: 
+* **Thursday**: 
+* **Friday**: 
+
+### Week 6: May 31, 2021
 
 * **Monday**:
 * **Tuesday**: 
