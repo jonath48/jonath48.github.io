@@ -38,7 +38,7 @@ title: Jonathan Thompson's IMMERSE Log
 ### Week 5: May 24, 2021
 
 * **Monday**: Worked on getting readback to work with the checkpoint of voting shorts on all the even row tiles on the board. Went to the FPGA deep dive Bootcamp meeting. Worked on setting up a vnc.
-* **Tuesday**: Got X11 forwarding to work to allow remote work. 
+* **Tuesday**: Got X11 forwarding to work to allow remote work. Figured out how to use readback with the checkpoints that have voting shorts on the entire board. Used readback to get the output of all the voting shorts for each possible input for the 6 way voting shorts. Started working on displaying data in graph form.
 * **Wednesday**: 
 * **Thursday**: 
 * **Friday**: 
