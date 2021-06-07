@@ -45,6 +45,14 @@ title: Jonathan Thompson's IMMERSE Log
 
 ### Week 6: May 31, 2021
 
+* **Monday**: Memorial day I did not work.
+* **Tuesday**: Home for Grandfather's funeral. I did not work.
+* **Wednesday**: Home for Grandfather's funeral. I did not work.
+* **Thursday**: Home for Grandfather's funeral. I did not work.
+* **Friday**: Home for Grandfather's funeral. I did not work.
+
+### Week 7: June 7, 2021
+
 * **Monday**:
 * **Tuesday**: 
 * **Wednesday**: 
