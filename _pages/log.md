@@ -53,7 +53,7 @@ title: Jonathan Thompson's IMMERSE Log
 
 ### Week 7: June 7, 2021
 
-* **Monday**:
+* **Monday**: Worked on getting the 5 way voting checkpoint set up properly. Started working on coding arduino for doing voting shorts experiments. Went to bootcamp meeting with guest speaker Tim Ansell.
 * **Tuesday**: 
 * **Wednesday**: 
 * **Thursday**: 
