@@ -55,6 +55,6 @@ title: Jonathan Thompson's IMMERSE Log
 
 * **Monday**: Worked on getting the 5 way voting checkpoint set up properly. Started working on coding arduino for doing voting shorts experiments. Went to bootcamp meeting with guest speaker Tim Ansell.
 * **Tuesday**: Worked on coding arduino for voting shorts experiments.
-* **Wednesday**: 
-* **Thursday**: 
+* **Wednesday**: Went to SHREC workshop, Immerse meetings, and Bootcamp meetings. Worked on getting the arduino set up.
+* **Thursday**: Went to FPGA aging meeting. Got arduino to work and started to get the arduino to work together with other files made earlier.
 * **Friday**: 
