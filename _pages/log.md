@@ -57,4 +57,12 @@ title: Jonathan Thompson's IMMERSE Log
 * **Tuesday**: Worked on coding arduino for voting shorts experiments.
 * **Wednesday**: Went to SHREC workshop, Immerse meetings, and Bootcamp meetings. Worked on getting the arduino set up.
 * **Thursday**: Went to FPGA aging meeting. Got arduino to work and started to get the arduino to work together with other files made earlier.
-* **Friday**: 
+* **Friday**: Worked on getting arduino work with FPGA. Worked on Immerse presentation.
+
+### Week 8: June 14, 2021
+
+* **Monday**:
+* **Tuesday**:
+* **Wednesday**:
+* **Thursday**:
+* **Friday**:
