@@ -61,7 +61,7 @@ title: Jonathan Thompson's IMMERSE Log
 
 ### Week 8: June 14, 2021
 
-* **Monday**:
+* **Monday**: Worked on Immerse powerpoint. Worked on getting experiment to work properly
 * **Tuesday**:
 * **Wednesday**:
 * **Thursday**:
