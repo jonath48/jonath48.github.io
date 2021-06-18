@@ -64,5 +64,13 @@ title: Jonathan Thompson's IMMERSE Log
 * **Monday**: Worked on Immerse powerpoint. Worked on getting experiment to work properly
 * **Tuesday**: Worked on getting voting short experiment to work and made graphs from data found. Worked on IMMERSE presentation.
 * **Wednesday**: Fixed some of the graphs of the voting short experiments. Finished IMMERSE presentation powerpoint. Went to IMMERSE, broader impact, and short circuit meetings.
-* **Thursday**:
+* **Thursday**: Worked on getting code cleaned up and merge into github shorty repo. Started trying to use router to route the voting shorts differently.
+* **Friday**: Worked on getting the router to work.
+
+### Week 9: June 21, 2021
+
+* **Monday**: 
+* **Tuesday**: 
+* **Wednesday**: 
+* **Thursday**: 
 * **Friday**:
