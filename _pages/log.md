@@ -69,6 +69,14 @@ title: Jonathan Thompson's IMMERSE Log
 
 ### Week 9: June 21, 2021
 
+* **Monday**: Worked on routing the 5 way voting shorts. Went to bootcamp meeting.
+* **Tuesday**: 
+* **Wednesday**: 
+* **Thursday**: 
+* **Friday**:
+
+### Week 10: June 28, 2021 - July 2, 2021
+
 * **Monday**: 
 * **Tuesday**: 
 * **Wednesday**: 
