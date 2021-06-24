@@ -70,8 +70,8 @@ title: Jonathan Thompson's IMMERSE Log
 ### Week 9: June 21, 2021
 
 * **Monday**: Worked on routing the 5 way voting shorts. Went to bootcamp meeting.
-* **Tuesday**: 
-* **Wednesday**: 
+* **Tuesday**: Worked on finding better nodes to route through to decrease the number of hops needed while routing.
+* **Wednesday**: I continued to work and test differently routed checkpoints and testing on different boards. Went to Immerse, Broader Impact, and Bootcamp meeting.
 * **Thursday**: 
 * **Friday**:
 
