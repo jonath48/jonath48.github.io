@@ -72,10 +72,18 @@ title: Jonathan Thompson's IMMERSE Log
 * **Monday**: Worked on routing the 5 way voting shorts. Went to bootcamp meeting.
 * **Tuesday**: Worked on finding better nodes to route through to decrease the number of hops needed while routing.
 * **Wednesday**: I continued to work and test differently routed checkpoints and testing on different boards. Went to Immerse, Broader Impact, and Bootcamp meeting.
+* **Thursday**: Went to FPGA Aging meeting. Worked on redoing the routing on the voting shorts. Worked on improving the quality of the code used to run the voting shorts experiments.   
+* **Friday**: Worked on improving arduino code and voting shorts experiment code. Started trying to add LEDs to voting short checkpoint to allow easy verification of correct inputs.
+
+### Week 10: June 28, 2021 - July 2, 2021
+
+* **Monday**: 
+* **Tuesday**: 
+* **Wednesday**: 
 * **Thursday**: 
 * **Friday**:
 
-### Week 10: June 28, 2021 - July 2, 2021
+### Week 11: June 5, 2021 - July 9, 2021
 
 * **Monday**: 
 * **Tuesday**: 
