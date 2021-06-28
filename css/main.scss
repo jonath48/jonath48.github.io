@@ -15,11 +15,11 @@
 //     font-family: 'Nosifer', cursive;
 // }
 
-@import url('https://fonts.googleapis.com/css2?family=Megrim&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Megrim&display=swap');
 
-div{
-    font-family: 'Megrim', cursive;
-}
+// div{
+//     font-family: 'Megrim', cursive;
+// }
 
 // Our variables
 $base-font-family: 'Megrim', cursive;
@@ -56,17 +56,17 @@ $on-lg: 1199.98px;
 
 
 $sidebar_hover_color: #0062B8;
-$grey-color: white;//#424242;
-$grey-color-light: white;//lighten($grey-color, 40%);
-$grey-color-dark: white;//darken($grey-color, 25%);
+$grey-color: black;//#424242;
+$grey-color-light: black;//lighten($grey-color, 40%);
+$grey-color-dark: black;//darken($grey-color, 25%);
 
-$text-color:white;// #111;
+$text-color:black;// #111;
 $brand-color: #0a69a8;
 $secondary-color1:#d882a1;
 $secondary-color2:#f26448;
 $secondary-color3:#f18321;
 $background-color:#fdfdfd;
-$text_selection_color: white;//rgba(0, 98, 184, .5);
+$text_selection_color: black;//rgba(0, 98, 184, .5);
 $selection-color: $text_selection_color;
 $sidebar-hover-color: $secondary-color1;
 
@@ -161,7 +161,7 @@ $sidebar-hover-color: $secondary-color1;
  h3,
  h4,
  h5 {
-     color: white;//black;//#424242;
+     color: black;//black;//#424242;
      font-family: $header-font-family;
      letter-spacing: normal;
  }
@@ -189,7 +189,7 @@ $sidebar-hover-color: $secondary-color1;
    * Lists
    */
  ul {
-     color: white;
+     color: black;
  }
  ol {
      margin-left: $spacing-unit;
@@ -197,7 +197,7 @@ $sidebar-hover-color: $secondary-color1;
  
  li {
      > ul{
-         color: white;
+         color: black;
      }
      > ol {
          margin-bottom: 0;
@@ -220,14 +220,14 @@ $sidebar-hover-color: $secondary-color1;
    * Links
    */
  a {
-     color: white;//$brand-color;
+     color: black;//$brand-color;
      text-decoration: none;
  
      &:visited {
      }
  
      &:hover {
-         color: darken($color:white, $amount: 15%);//darken($brand-color, 15%);
+         color: darken($color:black, $amount: 15%);//darken($brand-color, 15%);
          text-decoration: underline;
      }
  }
@@ -236,7 +236,7 @@ $sidebar-hover-color: $secondary-color1;
    * Blockquotes
    */
  blockquote {
-     color: white;//$grey-color;
+     color: black;//$grey-color;
      border-left: 4px solid $grey-color-light;
      padding-left: $spacing-unit / 2;
      font-size: 18px;
@@ -325,7 +325,7 @@ $sidebar-hover-color: $secondary-color1;
  }
  
  .title-bar {
-         a { color:white;}
+         a { color:black;}
  }
 #page-content-wrapper {
     min-width: 100vw;
@@ -339,7 +339,7 @@ h1 {
 
 h3 {
     text-transform: uppercase;
-    color: white;//black;//blue;
+    color: black;//black;//blue;
     font-size: 2.3rem;
     margin-top: 50px;
 }
@@ -347,6 +347,6 @@ h3 {
 .title-text {
     font-size: xxx-large;
     font-weight: 1000;
-    color:white;
+    color:black;
     text-align: center;
 }
