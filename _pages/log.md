@@ -81,9 +81,9 @@ title: Jonathan Thompson's IMMERSE Log
 * **Tuesday**: Chip Camp Counselor.
 * **Wednesday**: Chip Camp Counselor.
 * **Thursday**: Chip Camp Counselor.
-* **Friday**:
+* **Friday**: Worked on Hooking up LEDs for debugging purposes.
 
-### Week 11: June 5, 2021 - July 9, 2021
+### Week 11: July 5, 2021 - July 9, 2021
 
 * **Monday**: 
 * **Tuesday**: 
