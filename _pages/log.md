@@ -78,9 +78,9 @@ title: Jonathan Thompson's IMMERSE Log
 ### Week 10: June 28, 2021 - July 2, 2021
 
 * **Monday**: Worked on making a checkpoint that sends the inputs to LEDs to make it easier to debug. Went to chip camp meeting and prepared for chip camp.
-* **Tuesday**: 
-* **Wednesday**: 
-* **Thursday**: 
+* **Tuesday**: Chip Camp Counselor.
+* **Wednesday**: Chip Camp Counselor.
+* **Thursday**: Chip Camp Counselor.
 * **Friday**:
 
 ### Week 11: June 5, 2021 - July 9, 2021
