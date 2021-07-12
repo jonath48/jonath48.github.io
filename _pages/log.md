@@ -85,8 +85,16 @@ title: Jonathan Thompson's IMMERSE Log
 
 ### Week 11: July 5, 2021 - July 9, 2021
 
+* **Monday**: Celebrated Independence day. I didn't work
+* **Tuesday**: Chip Camp Counselor.
+* **Wednesday**: Chip Camp Counselor.
+* **Thursday**: Chip Camp Counselor.
+* **Friday**: Worked on making a checkpoint that will light up the LEDs on the FPGA to make debugging easier. 
+
+### Week 11: July 12, 2021 - July 16, 2021
+
 * **Monday**: 
 * **Tuesday**: 
 * **Wednesday**: 
 * **Thursday**: 
-* **Friday**:
+* **Friday**: 
