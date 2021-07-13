@@ -93,7 +93,7 @@ title: Jonathan Thompson's IMMERSE Log
 
 ### Week 11: July 12, 2021 - July 16, 2021
 
-* **Monday**: 
+* **Monday**: Worked on getting the voting short checkpoint to not having overlapping nodes.
 * **Tuesday**: 
 * **Wednesday**: 
 * **Thursday**: 
