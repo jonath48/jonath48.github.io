@@ -91,10 +91,34 @@ title: Jonathan Thompson's IMMERSE Log
 * **Thursday**: Chip Camp Counselor.
 * **Friday**: Worked on making a checkpoint that will light up the LEDs on the FPGA to make debugging easier. 
 
-### Week 11: July 12, 2021 - July 16, 2021
+### Week 12: July 12, 2021 - July 16, 2021
 
 * **Monday**: Worked on getting the voting short checkpoint to not having overlapping nodes.
 * **Tuesday**: Continued to work on the overlapping nodes issue.
 * **Wednesday**: I was out sick. I did not work.
+* **Thursday**: Continued to work on getting lights to work.
+* **Friday**: Vacation (Didn't work)
+
+### Week 13: July 19, 2021 - July 23, 2021
+
+* **Monday**: Vacation (Didn't work)
+* **Tuesday**: Vacation (Didn't work)
+* **Wednesday**: Vacation (Didn't work)
+* **Thursday**: Vacation (Didn't work)
+* **Friday**: Vacation (Didn't work)
+
+### Week 14: July 26, 2021 - July 30, 2021
+
+* **Monday**: Vacation (Didn't work)
+* **Tuesday**: 
+* **Wednesday**: 
+* **Thursday**: 
+* **Friday**: 
+
+### Week 15: August 2, 2021 - August 6, 2021
+
+* **Monday**: 
+* **Tuesday**: 
+* **Wednesday**: 
 * **Thursday**: 
 * **Friday**: 
