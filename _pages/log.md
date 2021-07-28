@@ -110,7 +110,7 @@ title: Jonathan Thompson's IMMERSE Log
 ### Week 14: July 26, 2021 - July 30, 2021
 
 * **Monday**: Vacation (Didn't work)
-* **Tuesday**: 
+* **Tuesday**: Continued to work on getting lights to work with shorts. Started working with a smaller portion of the board to see if it's the amount of shorts causing lights to not work.
 * **Wednesday**: 
 * **Thursday**: 
 * **Friday**: 
