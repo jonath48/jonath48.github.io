@@ -111,9 +111,9 @@ title: Jonathan Thompson's IMMERSE Log
 
 * **Monday**: Vacation (Didn't work)
 * **Tuesday**: Continued to work on getting lights to work with shorts. Started working with a smaller portion of the board to see if it's the amount of shorts causing lights to not work.
-* **Wednesday**: 
-* **Thursday**: 
-* **Friday**: 
+* **Wednesday**: Went to breakout room meeting. Got the lights to work and started to focus on getting shorts to output the right values.
+* **Thursday**: I found the voting shorts were taking odd routes which could be one reason the outputs are incorrect.
+* **Friday**: I continued to try and correct the routing by using the router and router tools found in RapidWright. 
 
 ### Week 15: August 2, 2021 - August 6, 2021
 
