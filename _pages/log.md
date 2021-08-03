@@ -117,7 +117,7 @@ title: Jonathan Thompson's IMMERSE Log
 
 ### Week 15: August 2, 2021 - August 6, 2021
 
-* **Monday**: 
+* **Monday**: Worked on using the custom router in RapidWright. 
 * **Tuesday**: 
 * **Wednesday**: 
 * **Thursday**: 
