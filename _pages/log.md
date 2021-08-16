@@ -118,6 +118,30 @@ title: Jonathan Thompson's IMMERSE Log
 ### Week 15: August 2, 2021 - August 6, 2021
 
 * **Monday**: Worked on using the custom router in RapidWright. 
+* **Tuesday**: Got the custom router to work. Looked at some of the irregularities.
+* **Wednesday**: continued working on the custom router results.
+* **Thursday**: Started trying to use GND and VCC as inputs to the voting shorts instead of signals supplied by an arduino.
+* **Friday**: Worked on setting up computer at home and started to work on using GND and VCC to power the inputs of the voting shorts.
+
+### Week 16: August 9, 2021 - August 13, 2021
+
+* **Monday**: Out sick with COVID (Didn't work)
+* **Tuesday**: Out sick with COVID (Didn't work)
+* **Wednesday**: Out sick with COVID (Didn't work)
+* **Thursday**: Out sick with COVID (Didn't work)
+* **Friday**: Out sick with COVID (Didn't work)
+
+### Week 17: August 16, 2021 - August 20, 2021
+
+* **Monday**: Worked on setting up the automation of creating checkpoint and bitstream files for the testing of voting shorts with GND and VCC as input signals and then tested them.
+* **Tuesday**: 
+* **Wednesday**: 
+* **Thursday**: 
+* **Friday**: 
+
+### Week 18: August 23, 2021 - August 27, 2021
+
+* **Monday**:  
 * **Tuesday**: 
 * **Wednesday**: 
 * **Thursday**: 
