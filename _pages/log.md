@@ -134,15 +134,15 @@ title: Jonathan Thompson's IMMERSE Log
 ### Week 17: August 16, 2021 - August 20, 2021
 
 * **Monday**: Worked on setting up the automation of creating checkpoint and bitstream files for the testing of voting shorts with GND and VCC as input signals and then tested them.
-* **Tuesday**: 
-* **Wednesday**: 
-* **Thursday**: 
-* **Friday**: 
+* **Tuesday**: Continued testing of files created.
+* **Wednesday**: Didn't work.
+* **Thursday**: Didn't work.
+* **Friday**: Didn't work.
 
 ### Week 18: August 23, 2021 - August 27, 2021
 
-* **Monday**:  
-* **Tuesday**: 
-* **Wednesday**: 
+* **Monday**:  Didn't work.
+* **Tuesday**: Continued testing and collecting data.
+* **Wednesday**: Didn't work.
 * **Thursday**: 
 * **Friday**: 
