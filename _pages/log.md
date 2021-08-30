@@ -141,8 +141,16 @@ title: Jonathan Thompson's IMMERSE Log
 
 ### Week 18: August 23, 2021 - August 27, 2021
 
-* **Monday**:  Didn't work.
+* **Monday**: Didn't work.
 * **Tuesday**: Continued testing and collecting data.
 * **Wednesday**: Didn't work.
+* **Thursday**: Went to weekly FPGA aging meeting. Put together the stats of the test run so far. 
+* **Friday**: Started testing and collecting data on another board. On the ARTY A7 board #3.
+
+### Week 19: August 30, 2021 - September 3, 2021
+
+* **Monday**: Continued to run tests and collect data.
+* **Tuesday**:
+* **Wednesday**:
 * **Thursday**: 
 * **Friday**: 
