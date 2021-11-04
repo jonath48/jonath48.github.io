@@ -154,3 +154,11 @@ title: Jonathan Thompson's IMMERSE Log
 * **Wednesday**:
 * **Thursday**: 
 * **Friday**: 
+
+### September
+
+* **Summary:** Ran test using ground and VCC as the inputs to the bels of the voting short modules.
+
+### October
+
+* **Summary:** Collected the data from the tests run and made some diagrams and tables for the data. Read Ken Zick's paper on LUT burn in https://ieeexplore.ieee.org/document/6927475
