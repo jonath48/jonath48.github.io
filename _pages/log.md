@@ -162,3 +162,7 @@ title: Jonathan Thompson's IMMERSE Log
 ### October
 
 * **Summary:** Collected the data from the tests run and made some diagrams and tables for the data. Read Ken Zick's paper on LUT burn in https://ieeexplore.ieee.org/document/6927475
+
+### November/December
+
+* **Summary:** Set up project to allow for the recording of current used by board while running voting shorts. Began to run test collecting data. Plotted first small set of data collected from first test experiment. Created plots with the minimum, maximum, and mean of the current of each test.
