@@ -166,3 +166,7 @@ title: Jonathan Thompson's IMMERSE Log
 ### November/December
 
 * **Summary:** Set up project to allow for the recording of current used by board while running voting shorts. Began to run test collecting data. Plotted first small set of data collected from first test experiment. Created plots with the minimum, maximum, and mean of the current of each test.
+
+### January 2022
+
+* **Summary:** Created more plots to visualize the data from the current tests that were run. Made a power point to relate results.
